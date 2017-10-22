@@ -4554,14 +4554,14 @@ a.label:focus {
   background-color: #449d44;
 }
 .label-info {
-  background-color: #5bc0de;
+  background-color: #00B3B3;
 }
 .label-info[href]:hover,
 .label-info[href]:focus {
-  background-color: #31b0d5;
+  background-color: #00B3B3 !important;
 }
 .label-warning {
-  background-color: #f0ad4e;
+  background-color: #f0ad4e !important;
 }
 .label-warning[href]:hover,
 .label-warning[href]:focus {
